@@ -12,6 +12,8 @@
   },
   "scripts": {
     "build": "node ./bin/card.js",
+    "minor": "npm version minor",
+    "major": "npm version major",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/JIBIN-P/JIBIN-P",
@@ -34,9 +36,9 @@
     "npx card"
   ],
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.0.0"
-  }
+  },
+  "devDependencies": {}
 }
