@@ -6,10 +6,24 @@
     "name": "Jibin Philipose",
     "url": "https://github.com/JIBIN-P"
   },
-  "main": "card.js",
+  "main": "/bin/card.js",
+  "bin": {
+    "JIBIN-P": "./bin/card.js"
+  },
   "scripts": {
+    "prepublish": "npm run build",
+    "build": "node build.js",
+    "dev": "npm run build && node ./bin/card.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/JIBIN-P/JIBIN-P",
+  "bugs": {
+    "url": "https://github.com/JIBIN-P/JIBIN-P/issues"
+  },
+  "files": [
+    "bin/card.js",
+    "bin/output"
+  ],
   "keywords": [
     "business card",
     "card",
