@@ -1,0 +1,30 @@
+{
+  "name": "jibin-p",
+  "version": "1.0.0",
+  "description": "A personal card for Jibin Philipose (JIBIN-P)",
+  "author": {
+    "name": "Jibin Philipose",
+    "url": "https://github.com/JIBIN-P"
+  },
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "business card",
+    "card",
+    "jibin-p",
+    "jibin",
+    "jibin philipose",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card"
+  ],
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0"
+  }
+}
