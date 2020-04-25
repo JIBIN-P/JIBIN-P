@@ -1,4 +1,4 @@
-# jibin-p ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JIBIN-P/JIBIN-P/Publish?style=for-the-badge) ![npm](https://img.shields.io/npm/dw/jibin-p?style=for-the-badge) ![npm](https://img.shields.io/npm/v/jibin-p?style=for-the-badge)
+# jibin-p ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/JIBIN-P/JIBIN-P/Publish?style=for-the-badge) ![npm](https://img.shields.io/npm/dm/jibin-p?style=for-the-badge) ![npm](https://img.shields.io/npm/v/jibin-p?style=for-the-badge)
 
 ## usage
 
